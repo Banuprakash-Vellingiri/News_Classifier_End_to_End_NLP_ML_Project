@@ -35,7 +35,7 @@
 - Entertainment
 
 are scraped by an automated web scraping tool called ***Selenium***. **Headlines,Description,Content** and **Category** of news are scraped.
-- #### Each category around ***"2000"*** unique contents are extracted.
+- ## Each category around ***"2000"*** unique contents are extracted.
 ### 📂 Data Storage:
    The scraped datas are stored in  ***MYSQL database*** for easy retrieval.
 ### 🧹 Data cleaning:
