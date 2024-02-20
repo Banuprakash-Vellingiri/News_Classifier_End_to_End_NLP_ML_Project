@@ -62,6 +62,7 @@ The NLP processed contents are converted into ***numerical vectors*** with the h
 - [Python](https://docs.python.org/3/)
 - [MYSQL](https://dev.mysql.com/doc/)
 - [pandas](https://pandas.pydata.org/docs/)
+- [Numpy](https://numpy.org/doc/)
 - [Matplotlib](https://matplotlib.org/stable/index.html)
 - [Seaborn](https://seaborn.pydata.org/)
 - [Sci-kit learn](https://scikit-learn.org/stable/)
